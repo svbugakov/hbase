@@ -1,0 +1,8 @@
+create 'user', 'personal', 'prof'
+
+
+
+https://github.com/sel-fish/hbase.docker
+https://dkbalachandar.wordpress.com/2017/02/13/apache-hbase-java-client-api-with-docker-hbase/
+
+
